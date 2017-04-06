@@ -1,0 +1,1 @@
+[job-no.1,4k,read]description=read {4k}ioengine=posixaiodirect=1bs=4ksize=1giodepth=1numjobs=1runtime=5time_basedgroup_reportingfilename=/dev/sda1
