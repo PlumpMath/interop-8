@@ -1,1 +1,4 @@
-
+Test No,File Size,Block Size,AccessType,runtime,threads,iodepth
+1,1G,4K,read,5,1,1
+2,1G,512K,randread,5,1,1
+3,1G,1K,write,5,1,1
