@@ -1,0 +1,12 @@
+[job-no.3,1k,write]
+description=write {1k}
+ioengine=posixaio
+direct=1
+bs=1k
+size=1g
+iodepth=1
+numjobs=1
+runtime=5
+time_based
+group_reporting
+filename=/dev/sda1
